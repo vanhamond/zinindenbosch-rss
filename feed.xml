@@ -3,111 +3,63 @@
   <channel>
     <title>Zin in Den Bosch</title>
     <link>https://www.zinindenbosch.nl/nl/page/home</link>
-    <description>Onofficiele RSS-feed voor artikelen van Zin in Den Bosch</description>
+    <description>Onofficiële RSS-feed met artikelen van Zin in Den Bosch</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>nl</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:07:53 +0000</lastBuildDate>
     <item>
-      <title>Veelgestelde vragen</title>
-      <link>https://www.zinindenbosch.nl/nl/article/veelgestelde-vragen</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/veelgestelde-vragen</description>
-      <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/veelgestelde-vragen</guid>
-    </item>
-    <item>
-      <title>Verblijf &amp; Overnachten</title>
-      <link>https://www.zinindenbosch.nl/nl/article/verblijf-en-overnachten</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/verblijf-en-overnachten</description>
-      <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/verblijf-en-overnachten</guid>
-    </item>
-    <item>
-      <title>Natuur &amp; Ontspannen</title>
-      <link>https://www.zinindenbosch.nl/nl/article/natuur-en-ontspannen</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/natuur-en-ontspannen</description>
-      <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/natuur-en-ontspannen</guid>
-    </item>
-    <item>
-      <title>Winkelen &amp; Dwalen</title>
-      <link>https://www.zinindenbosch.nl/nl/article/winkelen-en-dwalen</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/winkelen-en-dwalen</description>
-      <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/winkelen-en-dwalen</guid>
-    </item>
-    <item>
-      <title>Cultuur &amp; Ontdekken</title>
-      <link>https://www.zinindenbosch.nl/nl/article/cultuur-en-ontdekken</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/cultuur-en-ontdekken</description>
-      <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/cultuur-en-ontdekken</guid>
-    </item>
-    <item>
-      <title>Historie &amp; Architectuur</title>
-      <link>https://www.zinindenbosch.nl/nl/article/historie-en-architectuur</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/historie-en-architectuur</description>
-      <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/historie-en-architectuur</guid>
-    </item>
-    <item>
-      <title>Familie &amp; Fun</title>
-      <link>https://www.zinindenbosch.nl/nl/article/familie-en-fun</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/familie-en-fun</description>
-      <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/familie-en-fun</guid>
-    </item>
-    <item>
-      <title>Eten &amp; Drinken</title>
-      <link>https://www.zinindenbosch.nl/nl/article/eten-en-drinken</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/eten-en-drinken</description>
-      <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/eten-en-drinken</guid>
-    </item>
-    <item>
-      <title>addToFavorites Artikelen 10x Must-do: de hoogtepunten in Den Bosch Tips &amp; Toplijstjes De Leukste Hotspots Toeristische informatie</title>
+      <title>10x Must-do: de hoogtepunten in Den Bosch | ZinInDenBosch.nl</title>
       <link>https://www.zinindenbosch.nl/nl/article/wat-te-doen-in-den-bosch-hoogtepunten-den-bosch</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/wat-te-doen-in-den-bosch-hoogtepunten-den-bosch</description>
+      <description>&lt;p&gt;&lt;img src="https://www.zinindenbosch.nl/api/uploads/_DSC3227-1.jpg" alt="" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;&lt;p&gt;Ja mensen, je kunt het allemaal zelf uitzoeken in de stad, of je laat je hier en daar een beetje helpen. Er is namelijk zoveel te doen dat je soms door de bomen Den Bosch niet meer ziet. We maken het je graag makkelijk en geven je de absolute hoogtepunten die je zeker niet wilt missen!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.zinindenbosch.nl/nl/article/wat-te-doen-in-den-bosch-hoogtepunten-den-bosch"&gt;Lees het volledige artikel op Zin in Den Bosch&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/wat-te-doen-in-den-bosch-hoogtepunten-den-bosch</guid>
     </item>
     <item>
-      <title>addToFavorites Artikelen 9x Hidden Gems in Den Bosch De Leukste Hotspots Tips &amp; Toplijstjes</title>
+      <title>9x Hidden Gems in Den Bosch | ZinInDenBosch.nl</title>
       <link>https://www.zinindenbosch.nl/nl/article/hidden-gems-in-den-bosch</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/hidden-gems-in-den-bosch</description>
+      <description>&lt;p&gt;&lt;img src="https://www.zinindenbosch.nl/api/uploads/Den-Bosch-Muntel-2026-Thijn-Vorstenbosch%20(2).jpg" alt="" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;&lt;p&gt;In de binnenstad van Den Bosch stikt het van de leuke eettentjes, maar heb je het inmiddels wel uitgespeeld? Kijk dan iets verder dan je neus lang is, want ook buiten het centrum valt er genoeg te ontdekken. Van een restaurant in een oude watertoren tot de kleinste koffiezaak van Den Bosch. Benieuwd waar je moet zijn?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.zinindenbosch.nl/nl/article/hidden-gems-in-den-bosch"&gt;Lees het volledige artikel op Zin in Den Bosch&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/hidden-gems-in-den-bosch</guid>
     </item>
     <item>
-      <title>addToFavorites Wijn bij Stijn Artikelen 7x Wijnbars in Den Bosch De Leukste Hotspots Tips &amp; Toplijstjes</title>
+      <title>7x Wijnbars in Den Bosch | ZinInDenBosch.nl</title>
       <link>https://www.zinindenbosch.nl/nl/article/de-beste-wijnbars-in-den-bosch</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/de-beste-wijnbars-in-den-bosch</description>
+      <description>&lt;p&gt;&lt;img src="https://www.zinindenbosch.nl/api/uploads/Den-Bosch-Wijn-bij-Stijn-2025-RosaDorsman-18.jpg" alt="" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;&lt;p&gt;Of je team rood, wit of rosé bent - de echte vraag blijft: waar ontkurken we de eerste fles? (En de tweede, en de derde, en ga zo maar door) Vandaar een overzicht van de wijnbars in Den Bosch, zodat je in ieder geval weet waar je moet beginnen. Waar je eindigt is een zorg voor later!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.zinindenbosch.nl/nl/article/de-beste-wijnbars-in-den-bosch"&gt;Lees het volledige artikel op Zin in Den Bosch&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/de-beste-wijnbars-in-den-bosch</guid>
     </item>
     <item>
-      <title>addToFavorites Artikelen 7x Bruine kroegen Uitgelicht Artikel De Leukste Hotspots Tips &amp; Toplijstjes</title>
+      <title>7x Bruine kroegen | ZinInDenBosch.nl</title>
       <link>https://www.zinindenbosch.nl/nl/article/bruine-kroegen-in-den-bosch</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/bruine-kroegen-in-den-bosch</description>
+      <description>&lt;p&gt;&lt;img src="https://www.zinindenbosch.nl/api/uploads/Den-Bosch-Bonte-Palet-2025-RosaDorsman-1.jpg" alt="" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;&lt;p&gt;In Den Bosch barst het van de bruine kroegen! Schroom niet om je tussen de échte Bosschenaren te voegen. Wie de tijd neemt voor een biertje aan de bar, hoort vervolgens de mooiste verhalen. Ontdek de echte stamkroegen - waar het bier stroomt en het dialect van de tong afrolt. Jaoh zeetie!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.zinindenbosch.nl/nl/article/bruine-kroegen-in-den-bosch"&gt;Lees het volledige artikel op Zin in Den Bosch&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/bruine-kroegen-in-den-bosch</guid>
     </item>
     <item>
-      <title>addToFavorites Artikelen Wat te doen als het regent? De Leukste Hotspots Tips &amp; Toplijstjes</title>
+      <title>Wat te doen als het regent? | ZinInDenBosch.nl</title>
       <link>https://www.zinindenbosch.nl/nl/article/zin-in-herfst</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/zin-in-herfst</description>
+      <description>&lt;p&gt;&lt;img src="https://www.zinindenbosch.nl/api/uploads/Den-Bosch-Regen-Herfst-2025-RosaDorsman.jpg" alt="" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;&lt;p&gt;Laten we geen mooi weer spelen, want tijdens de herfst kan je een paar flinke hoosbuien verwachten. In de Bossche volksmond noemen we dat: k*t weer. Dus wat doe je als het met bakken uit de hemel valt? Wij hebben dé tips voor eindeloos vermaak!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.zinindenbosch.nl/nl/article/zin-in-herfst"&gt;Lees het volledige artikel op Zin in Den Bosch&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/zin-in-herfst</guid>
     </item>
     <item>
-      <title>addToFavorites Jostijn Ligtvoet Artikelen 10x Must-Sees tijdens November Music Tips &amp; Toplijstjes</title>
+      <title>10x Must-Sees tijdens November Music | ZinInDenBosch.nl</title>
       <link>https://www.zinindenbosch.nl/nl/article/10x-must-sees-tijdens-november-music</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/10x-must-sees-tijdens-november-music</description>
+      <description>&lt;p&gt;&lt;img src="https://www.zinindenbosch.nl/api/uploads/NM25-CelloOctetAmsterdam-13112025-JostijnLigtvoetFotografie-210.jpg" alt="" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;&lt;p&gt;November Music is het festival voor hedendaagse, vernieuwende en grensverleggende muziek. Van hedendaags klassiek en minimal jazz, tot elektronica en cross-overs die je nergens anders hoort. Er is zoveel te kiezen, maar wat mag je echt niet missen? Wij hebben tien festivaltips op een rij gezet.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.zinindenbosch.nl/nl/article/10x-must-sees-tijdens-november-music"&gt;Lees het volledige artikel op Zin in Den Bosch&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/10x-must-sees-tijdens-november-music</guid>
     </item>
     <item>
-      <title>addToFavorites Artikelen Zin in een Borrel Tips &amp; Toplijstjes Uitgelicht Artikel</title>
+      <title>Zin in een Borrel | ZinInDenBosch.nl</title>
       <link>https://www.zinindenbosch.nl/nl/article/zin-om-te-borrelen</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/zin-om-te-borrelen</description>
+      <description>&lt;p&gt;&lt;img src="https://www.zinindenbosch.nl/api/uploads/Den-Bosch-Basiliek-2025-RosaDorsman%20(1).jpg" alt="" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;&lt;p&gt;In Den Bosch weten we wel hoe je moet borrelen! Van een goed glas wijn en een lokaal speciaalbiertje tot een spicy cocktail waar je u tegen zegt. De stad barst van de gezellige borrelplekken waar de glazen rijkelijk worden gevuld. Dus schuif aan, bestel nog een rondje en geniet van de mooiste verhalen aan de bar. Waar je eindigt? Dat is een zorg voor later!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.zinindenbosch.nl/nl/article/zin-om-te-borrelen"&gt;Lees het volledige artikel op Zin in Den Bosch&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/zin-om-te-borrelen</guid>
     </item>
     <item>
-      <title>Herfst in Den Bosch</title>
+      <title>Herfst in Den Bosch | ZinInDenBosch.nl</title>
       <link>https://www.zinindenbosch.nl/nl/article/herfst-in-den-bosch</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/herfst-in-den-bosch</description>
+      <description>&lt;p&gt;&lt;img src="https://www.zinindenbosch.nl/api/uploads/La%20Jeu-1.La%20Jeu" alt="" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;&lt;p&gt;De blaadjes dwalen als confetti door de stad, en dat betekent maar één ding: het is herfst! Trek je regenjas uit de kast en stamp door de plassen. Het weer kunnen we nou eenmaal niet beïnvloeden, maar wel wat je ermee doet. Warm op in een bruine kroeg óf laat de creativiteit vloeien in het museum. Dit zijn dé tips voor het najaar in Den Bosch!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.zinindenbosch.nl/nl/article/herfst-in-den-bosch"&gt;Lees het volledige artikel op Zin in Den Bosch&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/herfst-in-den-bosch</guid>
     </item>
     <item>
-      <title>Parkeren in Den Bosch</title>
+      <title>Parkeren in Den Bosch | ZinInDenBosch.nl</title>
       <link>https://www.zinindenbosch.nl/nl/article/parkeren-in-den-bosch</link>
-      <description>Lees het volledige artikel op Zin in Den Bosch: https://www.zinindenbosch.nl/nl/article/parkeren-in-den-bosch</description>
+      <description>&lt;p&gt;&lt;img src="https://www.zinindenbosch.nl/api/uploads/parkeren%20den%20bosch.jpg" alt="" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;&lt;p&gt;Breng je een bezoek aan Den Bosch met de auto? Bekijk dan de verschillende parkeergarages in de binnenstad.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.zinindenbosch.nl/nl/article/parkeren-in-den-bosch"&gt;Lees het volledige artikel op Zin in Den Bosch&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.zinindenbosch.nl/nl/article/parkeren-in-den-bosch</guid>
     </item>
   </channel>
